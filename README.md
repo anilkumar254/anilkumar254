@@ -1,55 +1,75 @@
-# 👋 Hi, I'm Sunkari Anil Kumar
+# 👨‍💻 Sunkari Anil Kumar
 
-🎓 A passionate and aspiring **Computer Science and Engineering** student at **Avanthi Institute of Engineering and Technology (JNTUH)**, graduating in 2025.
-
-🌱 I'm continuously learning and building projects with **Python**, **JavaScript**, **HTML/CSS**, and **MySQL**. I enjoy solving real-world problems and continuously expanding my knowledge in **software development** and **data management**.
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Python, C, JavaScript
-- **Frontend:** HTML, CSS, JavaScript
-- **Databases:** MySQL, Microsoft Access
-- **Tools:** Git, GitHub, Microsoft Office Suite
-- **OS:** Windows
+🎓 B.Tech in Computer Science and Engineering  
+🏫 Avanthi Institute of Engineering and Technology, JNTUH  
+📅 Graduation Year: 2025  
+📍 Hyderabad, India  
+📧 anilcharysunkari@gmail.com  
+📱 +91-6305180737  
 
 ---
 
-## 📈 GitHub Stats
+## 👋 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Anil's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+I’m a passionate and driven Computer Science graduate, eager to contribute to innovative projects and collaborate in dynamic environments. With hands-on experience in both frontend and backend technologies, I aim to continuously improve and build impactful software solutions.
 
-> 📌 _Replace `your-github-username` above with your actual GitHub username._
+🔍 Seeking opportunities in software development, web technologies, or data-driven projects.  
+💡 I enjoy solving real-world problems using Python, web development, and machine learning.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Technical Skills
 
-- **🎨 Personal Portfolio Website**
-  - Created a fully responsive personal portfolio using HTML, CSS, and JavaScript.
-  - Includes sections for projects, education, and contact form.
-  - Showcases my work and skills in a professional layout.
+- **Languages:** C, Python, HTML, CSS, JavaScript  
+- **Databases:** MySQL, Microsoft Access  
+- **Tools & Frameworks:** Git, PyTorch, Transformers, Whisper  
+- **Softwares:** MS Office, Windows OS  
+- **Other Skills:** Data entry, documentation, strong analytical and communication skills
+
+---
+
+## 💼 Work Experience
+
+**D MART** (Apr 2024 – Jun 2024)  
+*Administrator | Medical Billing Specialist | Process Associate*  
+- Coordinated with marketing agents and optimized billing workflows.  
+- Developed administrative processes to increase efficiency.  
+- Strengthened interpersonal and problem-solving skills.
+
+---
+
+## 🧠 Projects
+
+### 🔹 Video Transcript Summarizer
+- Extracted and summarized speech from videos using `openai-whisper`, `ffmpeg`, `yt-dlp`, and `transformers`.
+- Developed a streamlined frontend for file uploads and auto-summarized text.
+- Used Git for version control and collaboration.
+
+### 🔹 Personal Portfolio Website
+- Built using HTML, CSS, and JavaScript.
+- Showcases resume, projects, and contact information in a clean, responsive design.
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Python Basics – Infosys Springboard
-- ✅ JavaScript – Infosys Springboard
-- ✅ Instagram Clone Bootcamp – Devtown (HTML & CSS)
+- **Instagram Clone Bootcamp** by Devtown – Built a frontend clone using HTML & CSS.
 
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub Stats
 
-- 📧 Email: [anilcharysunkari@gmail.com](mailto:anilcharysunkari@gmail.com)
-- 📱 Phone: +91-6305180737
-- 🌍 Location: Hyderabad, India
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunkarianilkumar&show_icons=true&theme=tokyonight&hide=prs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunkarianilkumar&layout=compact&theme=tokyonight)
 
 ---
 
-> ⚡ _“Always eager to learn, grow, and contribute to impactful tech solutions.”_
+## 🌐 Let’s Connect
 
+- **GitHub:** [github.com/sunkarianilkumar](https://github.com/sunkarianilkumar)
+- **LinkedIn:** *(Add your LinkedIn link here if available)*
+
+---
+
+⭐ _“Always learning, always growing.”_  
